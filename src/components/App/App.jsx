@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { ContactsForm } from '../ContactForm/ContactForm';
 import { Filter } from '../Filter/filter';
 import { ContactList } from '../ContactsList/ContactsList';
-import { AppWrapper,Title, SearchWrapper, StyledTitles, CloseBtn, OpenPhonebook } from './app.styled';
+import { AppWrapper,Title, SearchWrapper, StyledTitles, CloseBtn } from './app.styled';
 
 
 export class App extends Component {
